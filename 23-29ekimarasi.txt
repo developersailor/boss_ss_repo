@@ -1,5 +1,5 @@
 HK ∞ 57 MUHAMMED
-HK ∞         Me... %
+                                        %
 HK ∞ BAYRAM KAPRIS
 HK ∞ DOGUKAN TEK...
 HK ∞ EMIR DAHL
@@ -53,7 +53,6 @@ HK ∞ GASPCI
 
 HK ∞ Kylus
 HK∞ Ahmet USTA. %
-HK∞         Me... ½
 HK∞ EMiR DAHL
 HK ∞ GASPCI..
 HK ∞ HALIL35 LIK
@@ -71,7 +70,7 @@ HK ∞ SEKO
 HK ∞ MVP MUSTO
 HK ∞ 1905 MURO
 HK ∞ ALEMCI CAN
-HK ∞ Ahmet USTA... ½
+                                               ½
             
 HK ∞ EMIR DAHL
 HK ∞ GTR500 Süle... ½
@@ -90,7 +89,7 @@ HK ∞ HALIL35'LIK
 HK ∞ SEKO
 
 HK ∞ 57 MUHAMMED
-HK ∞ Ahmet USTA...
+                                              
 HK ∞ Baris CenkYürür
 HK ∞ EMIN ZAKUSKA
 HK ∞ EMiR DAHL
@@ -107,7 +106,6 @@ HK ∞ GTR500 Süle...
 HK∞ KaymakAm
 HK ∞ MESUT DAY...
 HK ∞ OTELCI MEMO
-HK ∞ 
 HK∞ ZAFER
 HK ∞ ECZANECI
 HK∞ DAHL
@@ -115,13 +113,11 @@ HK ∞ BEYBORA MEH..
 HK ∞ ENDY
 HK ∞ GTR500 Süle...
 HK∞ MESUT DAY... 
-Y HK ∞ 
 
 !HK ∞ ENES ECZANECI
 HK ∞ BEYBORA MEH...
 HK ∞ 57 MUHAMMED
 HK ∞ AHMETCAN MHP
-HK ∞         Me... %
 HK ∞ EMIN ZAKUSKA
 HK ∞ EMIR DAHL
 HK ∞ ENDY
@@ -129,13 +125,12 @@ HK ∞ GTR500 Süle... ½
 HK ∞ IZZET ATMACA
 HK ∞ MESUT DAYISA...
 HK ∞ OTELCI MEMO %
-HK ∞ 
 HK ∞ ZAFER
 
 ! HK ∞ ENES ECZA... %
 HK ∞ Kylus
 HK ∞ 57 MUHAMMED
-HK ∞         Me... %
+
 HK ∞ DOGUKAN TEK...
 HK ∞ EMIN ZAKUSKA
 HK ∞ EMIR DAHL
@@ -213,8 +208,7 @@ HK ∞ GASPCI
 
 HK ∞ Kylus
 HK ∞ BEYBORA MEH...
-HK ∞ Ahmet USTA... ½
-HK∞         Me... k
+                                              
 HK ∞ EMIR DAHL
 HK ∞ GTR500 Süle... ½
 HK ∞                     
@@ -241,31 +235,21 @@ HK ∞ EMIN ZAKUSKA
 HK ∞ EMIR DAHL
 HK ∞ GTR500 Süle... ½
 HK ∞ HALIL35'LIK
-HK ∞                     
-HK ∞ 
-
-HK ∞ 57 MUHAMMED
-                                      
+HK ∞ 57 MUHAMMED                                  
 HK ∞ EMIN ZAKUSKA
 HK ∞ EMIR DAHL
-HK ∞ GTR500 Süle... ½
 HK ∞ HALIL35'LIK
 HK ∞ MESUT DAYISA...
 HK ∞ OTELCI MEMO %
-HK ∞ 
 HK ∞ GASPCI
-
 HK ∞ ALEMCI CAN
 HK ∞ BEYBORA MEH...
-HK ∞ Ahmet USTA... ½
 HK ∞ BAYRAM KA... %
  HK ∞ EMIN ZAKUSKA
 HK ∞ EMIR DAHL
 HK ∞ ENDY
 HK ∞ GTR500 Süle... %
 HK ∞ MESUT DAYISA...
-HK ∞ 
-
 !HK ∞ ENES ECZANECI
 HK ∞ MVP MUSTO
 HK ∞ ALEMCI CAN
@@ -274,17 +258,13 @@ HK ∞ BAYRAM KA... *
 HK ∞ EMIN ZAKUSKA
 HK ∞ EMIR DAHL ½
 HK ∞ ENDY
-HK ∞ GTR500 Süle... %
 HK ∞ IZZET ATMACA %
 HK ∞ MESUT DAYISA...
-HK ∞ 
 HK ∞ ZAFER
-
 !HK ∞ ENES ECZANECI
 HK ∞ MVP MUSTO
 HK ∞ ALEMCI CAN
 HK ∞ BEYBORA MEH...
-HK ∞         Me... %
 HK ∞ BAYRAM KAPRIS
 HK ∞ DOGUKAN TEK...
 HK ∞ EMIR DAHL
@@ -297,8 +277,6 @@ HK ∞ MESUT DAY!.. ½
 HK ∞ OTELCI MEMO ½
 HK ∞ YAZMASALI
 HK ∞ ZAFER
-HK ∞ 
-
 ! DEMIR
 ! HK ∞ ENES ECZANECI
 HK ∞ MVP MUSTO
@@ -306,7 +284,6 @@ HK ∞ 1905 MURO
 HK ∞ BEYBORA MEH...
 HK ∞ 57 MUHAMM... *
 HK ∞ AHMETCAN MHP
-HK ∞         Me... %
 HK ∞ AYHAN ARIM... % 
 HK∞ BAYRAM KAPRIS
 HK ∞ EMIR DAHL
@@ -316,12 +293,10 @@ HK ∞ KUMARBAZ... %
 HK ∞ MESUT DAYISA...
 HK ∞ OTELCI MEMO ½
 HK ∞ ZAFER
-
 !DEMIR
 :! HK ∞ ENES ECZA... %
 - H ∞ 1905 MURO
 : H∞ 57 MUHAMM... %
-С HK ∞         Me... %
 HK ∞ BAYRAM KA... %
 HK ∞ DEVRIM
 HK∞ EMIN ZAKUSKA
@@ -330,46 +305,31 @@ HK ∞ ENDY
 HK ∞ ERTAN TESLA %
 HK∞ HALIL35'LIK
 С H ∞ KaymakAm
-%
 HK ∞ KUMARBAZ.. %
 HK∞ MESUT DAYISA..
 HK ∞ OTELCI MEMO ½
 HK ∞ ZAFER
 HK ∞ mvp
-
 !HK ∞ ENES ECZANECI
-%
-
 HK∞ MVP MUSTO
-
 HK ∞ 1905 MURO
-
 HK ∞ 57 MUHAMMED
-
 HK ∞ EMIN ZAKUSKA
 HK ∞ ENDY
-
 HK ∞ ERTAN TESLA
-
 HK ∞ HALIL35'LIK
-
 HK ∞ KOMBO
-
 HK ∞ ZAFER
-
 HK ∞ MVP MUSTO
 HK ∞ 57 MUHAMMED
-HK ∞ EMIN WUD
-                                       
+HK ∞ EMIN WUD                                   
 ENDY
 HK ∞ MVP MUSTO
 HK ∞ ALEMCI CAN
 HK ∞ BEYBORA MEH...
 HK ∞ EMIN WUD
-
 HK ∞ MVP MUSTO
-HK ∞ BEYBORA MEH...
-                                      
+HK ∞ BEYBORA MEH...                                  
 HK ∞ EMIN WUD
 HK ∞ ENDY
 HK ∞ OTELCI MEMO ½
@@ -377,112 +337,80 @@ HK ∞ OTELCI MEMO ½
 HK ∞ BEYBORA MEH...
 НК ∞ ENDY
 HK ∞ MELIH BJKx...
-
 !HK ∞ ENES ECZANEC
 HK ∞ Kylus
-HK ∞ BEYBORA MEH...
-HK ∞ Ahmet USTA... %
-             
+HK ∞ BEYBORA MEH...  
 HK ∞ EMIR DAHL HK ∞ SEKO
 HK ∞ VANERA
-
 1HK∞ENES ECZA...
 HK ∞ ALEMCI CAN
-HK ∞ BEYBORA MEH...
-HK ∞ Ahmet USTA... %
-            
+HK ∞ BEYBORA MEH... 
 HK ∞ EMIR DAHL
 HK ∞ OTELCI MEMO
 HK ∞ SEKO
-HK ∞ 
 
 ! HK ∞ ENES ECZANECI
 HK ∞ 1905 MURO
 HK ∞ BEYBORA MEH...
-HK ∞ 57 MUHAMM... %
-HK ∞ Ahmet USTA... ½
-            
+HK ∞ 57 MUHAMM... %       
 HK ∞ EMIN WUD
 HK ∞ EMIR DAHL
 HK ∞ ENDY
 HK ∞ OTELCI MEMO
 HK ∞ VANERA
-HK ∞ 
-
 HK ∞ SEKO
-
 !HK ∞ ENES ECZANEC
-
 HK∞ MVP MUSTO
-
 HK∞ 1905 MURO
-
 HK ∞ 57 MUHAMMED
-
 HK ∞ DOGUKAN TEKAB... Y
-
 HK.∞ EMIN WUD
-
-HK ∞ EMIR DAHL
-                                       
+HK ∞ EMIR DAHL                                  
 HK ∞ MESUT DAYISAPLAR
-
 HK ∞ OTELCI MEMO
-
-HK ∞ 
 HK ∞ SEKO
-
 HK ∞ MVP MUSTO
 HK ∞ 1905 MURO
 HK ∞ 57 MUHAMM... %
 HK ∞ BAYRAM KAPRIS HK ∞ DOGUKAN T... ½
 HK ∞ EMIN WUD
 HK ∞ EMIR DAHL
-%
 HK ∞ ENDY
 HK ∞ GTR500 Süle... %
-HK ∞ HALIL TIMSAH
-                                       
+HK ∞ HALIL TIMSAH                                      
 HK ∞ MESUT DAYISA...
 HK ∞ OTELCI MEMO ½
 HK ∞ SEKO
-HK ∞ 
-
 !HK ∞ ENES ECZANECI
 HK ∞ MVP MUSTO
 HK ∞ 1905 MURO
 HK ∞ 57 MUHAMM... %
-HK ∞         Me... %
 HK ∞ ALICAN Müptez...
 HK ∞ Bars Cenk Yurur
 HK ∞ BAYRAM KAPRIS
 HK ∞ DOGUKAN TEK...
 HK ∞ EMIR DAHL
-HK ∞ ENDY
-                                       
+HK ∞ ENDY                             
 HK ∞ KSDELICERR... ½
 HK ∞ MESUT DAYISA...
 HK ∞ OTELCI MEMO % 
 HK ∞ SEKO
 HK ∞ ZAFER
-
 ! HK ∞ ENES ECZA...
 NaZaR
 HK ∞ MVP MUSTO
 HK ∞ 1905 MURO
 HK ∞ BEYBORA MEH...
-HK ∞ 57 MUHAMM... % HK ∞         Me... %
+HK ∞ 57 MUHAMM... %                                         %
 HK ∞ ALiCAN Müptez...
-HK ∞ BAYRAM KAPRIS HK ∞ DOGUKAN T... %
+HK ∞ BAYRAM KAPRIS 
+HK ∞ DOGUKAN T... %
 HK∞ EMIN WUD
 HK ∞ EMIR DAHL
-HK ∞ ENDY
-                                       
+HK ∞ ENDY                       
 HK ∞ MESUT DAYISA...
 HK ∞ OTELCI MEMO %
-HK ∞ 
 HK ∞ ZAFER
-
 ! HK ∞ ENES ECZA... % 
 NaZaR
 HK ∞ MVP MUSTO
@@ -490,119 +418,81 @@ HK ∞ 1905 MURO
 HK ∞ BEYBORA MEH...
 HK ∞ 57 MUHAMM... *
 HK ∞ AHMETCAN MHP
-HK ∞         Me... *
 HK ∞ BAYRAM KAPRIS
 HK ∞ EMIN WUD
 HK ∞ EMIR DAHL
 HK ∞ ENDY
 HK ∞ ERTAN TESLA
 HK ∞ HALIL35'LIK
-HK ∞ HALIL TIMSAH
-                                       
+HK ∞ HALIL TIMSAH                     
 HK ∞ MESUT DAYISA...
 НК ∞ OTELCI MEMO *
 HK ∞ UFUK CRATOS %
-HK ∞ 
 HK ∞ ZAFER
-
 !HK ∞ ENES ECZA... %
 HK ∞ MVP MUSTO
 HK ∞ 1905 MURO
 HK ∞ Kylus
 HK ∞ BEYBORA MEH...
 HK ∞ 57 MUHAMM... %
-HK ∞ Ahmet USTA... %
-HK ∞         Me... %
 HK ∞ BAYRAM KAPRIS
 HK ∞ EMIN WUD
 HK ∞ EMIR DAHL
-%
 HK ∞ ERTAN TESLA
-HK ∞ HALIL35'LIK
-                                       
+HK ∞ HALIL35'LIK                   
 HK ∞ MESUT DAYISA...
-
 НК ∞ OTELCI MEMO %
-
 HK ∞ SEKO
-HK ∞ 
-
 HK ∞ 1905 MURO
 HK ∞ Kylus
 HK ∞ 57 MUHAMMED
-            
 HK ∞ BAYRAM KAPRIS
 HK ∞ EMIN WUD
 HK ∞ EMIR DAHL
 HK ∞ HALIL35'LIK
-HK ∞                     
-                                       
-%
 HK ∞ MESUT DAY... ½
 HK ∞ OTELCI MEMO ½
-
 HK∞ ALEMCI CAN
 HK ∞ Kylus
 HK ∞ DEVRIM
-HK ∞ EMIN WUD
-                                       
+HK ∞ EMIN WUD                                    
 HK ∞ MESUT DAY...
 HK ∞ SEKO
-
 HK ∞ Kylus
 HK ∞ EMIN WUD
-HK ∞ ENDY
-                                       
+HK ∞ ENDY                              
 HK ∞ BEYBORA MEH.
 HK ∞ ENDY
-                                       
-HK ∞ 
 
 HK ∞ BEYBORA MEH...
 HK ∞ ENDY
-HK ∞ 
-
 HK ∞ BEYBORA MEH...
 HK ∞ ENDY
 HK∞ GASPCI..
-HK ∞ 
-
 !HK∞ ENES ECZANECI
-HK ∞ BEYBORA MEH...
-                                      
-HK ∞                     
+HK ∞ BEYBORA MEH...               
 HK ∞ OTELCI MEMO
 HK ∞ GASPCI
-
 !HK ∞ ENES ECZANECI 
-HK ∞ BEYBORA MEH...
-                                      
-HK ∞ EMIN WUD HK ∞
- EMIR DAHL 
- HK ∞                     
+HK ∞ BEYBORA MEH...                     
+HK ∞ EMIN WUD 
+HK ∞ EMIR DAHL                     
 HK ∞ OTELCI MEMO
-
 !HK ∞ ENES ECZA... ½
 HK ∞ 1905 MURO
 HK ∞ ALEMCI CAN
 HK ∞ BEYBORA MEH...
-HK ∞ Ahmet USTA... ½
-HK ∞         Mehmet
 HK ∞ EMIN WUD
 HK ∞ EMIR DAHL
 HK ∞ GASPC ... ½ %
-HK ∞                     
-                                       
+                                
 HK ∞ KSDELICERR... ½
 HK ∞ MESUT DAYISA...
 HK ∞ OTELCI MEMO ½
 HK ∞ SEKO
-
 HK ∞ ALEMCI CAN
 HK ∞ BEYBORA MEH..
 HK ∞ 57 MUHAMM...
-HK ∞ Ahmet USTA...
-HK ∞         Me...
 HK ∞ DOGUKAN T...
 HK ∞ EMIR DAHL
 HK ∞ GASPC ... *
@@ -611,130 +501,94 @@ HK ∞ MESUT DAYISA..
 HK ∞ MURAT IELK...
 HK ∞ OTELCI MEMO
 HK ∞ SEKO
-
 !HK ∞ ENES ECZA...
 HK ∞ BEYBORA MEH...
-HK ∞         Me... %
 HK∞ BAYRAM KAPRIS
 HK∞ DEVRIM
 HK ∞ EMIR DAHL
 HK ∞ ENDY
 HK ∞ GASPCI MUH...
-HK ∞ GTR500 Süle... %
 HK ∞ MESUT DAYISA...
 HK ∞ MURAT IELK... %
 HK ∞ NAZAR
 HK ∞ SEKO
-HK ∞ 
-
 HK ∞ MVP MUSTO
 HK ∞ AHMETCAN MHP
-НК ∞         Me…
 HK ∞ EMIN WUD
 HK ∞ EMIR DAHL
 HK ∞ ENDY
 HK ∞ NAZAR
 HK ∞ DAYISAPLAR
 HK ∞ 1905 MURO
-
 !HK ∞ ENES ECZANECI
 HK ∞ MVP MUSTO
 HK ∞ 1905 MURO
 HK∞ Kylus
 HK ∞ BEYBORA MEH...
 HK ∞ Waldano
-             
 HK ∞ BAYRAM KAPRIS 
 HK ∞ DOGUKAN TEK....
 HK ∞ EMIN WUD
 HK ∞ EMIR DAHL
-HK ∞ ENDY
-                                       
+HK ∞ ENDY                            
 HK ∞ YAZMASALI
-
 ! HK ∞ ENES ECZA... %
 HK ∞ MYP MUSTO
 HK ∞ 1905 MURO
 HK ∞ Kylus
-%
 HK ∞ BEYBORA MEH..
 HK ∞ 57 MUHAMM... %
 HK ∞ AHMETCAN MHP
-HK ∞         Me... %
 HK ∞ DEVRIM
 HK ∞ EMIN WUD
-%
 HK ∞ EMIR DAHL
 HK ∞ ENDY
 HK ∞ ERTAN TESLA %
-HK ∞ IZZET ATMA... %
-                                       
-HK ∞ KUMARBAZ MU...
-
+HK ∞ IZZET ATMA... %                     
+HK ∞ KUMARBAZ MU..
 HK ∞ MVP MUSTO
 HK ∞ Kylus
-＊
 HK ∞ 57 MUHAMM...%
 HK ∞ EMIN WUD 
 HK ∞ EMIR DAHL
- HK ∞ ERTAN TESLA
-  HK ∞ OTELCI MEMO ½
-
-  ) !DEMiR
+HK ∞ ERTAN TESLA
+HK ∞ OTELCI MEMO ½
+ !DEMiR
 HK ∞ Kylus
 НК ∞ 57 MUHAMM... %
 HK ∞ DEVRIM
 HK ∞ EMIN WUD
 HK ∞ ERTAN TESLA
 HK∞ NAZAR
-
 HK ∞ Kylus
 HK∞ 57 MUHAMMED 
 HK∞ BAYRAM KAPRIS
 HK ∞ EMIN WUD
  HK ∞ ERTAN TESLA
 HK ∞ NAZAR
-HK ∞ 
-
 HK ∞ EMIN WUD
 HK ∞ ENDY
 HK ∞ ERTAN TESLA
 HK ∞ NAZAR
 HK ∞ OTELCI MEMO
-HK ∞ 
-
 HK ∞ MVP MUSTO
 HK ∞ BEYBORA MEH...
 HK ∞ ENDY
 HK ∞ OTELCI MEMO
-
 HK ∞ MVP MUSTO
 HK ∞ OTELCI MEMO
-
 HK ∞ MVP MUSTO
 HK ∞ BEYBORA MEH...
-                                      
-HK ∞         Me... %
 HK ∞ EMIR DAHL
 HK ∞                     
 HK ∞ OTELCI MEMO
-
 HK ∞ BEYBORA MEH...
-HK ∞ Ahmet USTA...
-＊
 HK ∞ EMIN WUD
 HK ∞ EMiR DAHL  
 HK ∞ ERTAN TESLA
 HK ∞ NAZAR
-＊
-
-HK ∞ BEYBORA MEH...
-
+HK ∞ BEYBORA MEH..
 HK ∞ 57 MUHAMM... %
-
-HK ∞ Ahmet USTA... ½
-
-HK ∞         Me... %
 HK ∞ DEVRiM
 HK ∞ EMIN WUD
 HK ∞ ERTAN TESLA
@@ -853,7 +707,7 @@ HK ∞ ENDY
 HK ∞ ATES
 HK ∞ Kylus
 HK ∞ 57 MUHAMM... %
-HK ∞ Ahmet USTA...
+                                              
 HK ∞ DOGUKAN TEK...
 HK ∞ EMIN WUD
 HK ∞ EMIR DAHL
